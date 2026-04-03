@@ -1,4 +1,4 @@
-# investor-dd-skill
+# investor-skill
 
 像顶级投资人一样，专门拷问一个创业想法、项目或副业到底靠不靠谱。
 
@@ -33,7 +33,7 @@
 ## 安装
 
 ```bash
-npx skills add qingxi2058/investor-dd-skill
+npx skills add qingxi2058/investor-skill
 ```
 
 ## 触发方式
